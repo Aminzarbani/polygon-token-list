@@ -72,7 +72,8 @@ The JSON schema for the tokens includes: chainId, name, address, decimals, symbo
 
 5. Commit the changes and raise a Pull request to our repo
 
-### Disclaimer
-
-After raising a PR, please allow us some time to verify the PR.
-We do not follow any particular order in reviewing token additions and updations.
+## Whales NFT 
+Source code of NFT generator and traits.   
+Generator config is [here](config.yaml).   
+Collection seed is:
+```whales gonna whale```
