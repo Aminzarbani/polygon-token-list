@@ -69,11 +69,3 @@ The JSON schema for the tokens includes: chainId, name, address, decimals, symbo
     ```bash
     npm run build
     ```
-
-5. Commit the changes and raise a Pull request to our repo
-
-## Whales NFT 
-Source code of NFT generator and traits.   
-Generator config is [here](config.yaml).   
-Collection seed is:
-```whales gonna whale```
